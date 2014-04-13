@@ -66,7 +66,7 @@
 
 * The BagIt specification
 * The Bagger interface
-* Creating & Verifying bags
+* Creating & verifying bags
 * Create a bag using our image and our MODS record
 
 ## SIPs
@@ -83,7 +83,7 @@
 
 ## PREMIS
 
-* Yes, more metadata - "the goggles, they do nothing" for looking at XML
+* Yes, more metadata - "my eyes! the goggles do nothing" for looking at XML
 * Use sample PREMIS xml document and online XML editor to create a basic PREMIS record
 * Discuss events and agents 
 
