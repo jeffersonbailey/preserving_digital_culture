@@ -1,10 +1,10 @@
-# Agenda:
+## Agenda:
 
-## Web Archiving Assignment update
+### Web Archiving Assignment update
 
-## Recapping Lab 1
+### Recapping Lab 1
 
-### What we learned
+#### What we learned
 * Ontology of digital objects (physical, logical, conceptual)
 * Multiple representations of digital objects
   * Can be viewed/interpreted many different way (binary, hex, text, colors, etc)
@@ -19,7 +19,7 @@
 * How it ties into today's work
  * Lab 1 gave context to organization challenges but our exercises were very bit-level, dealing with single files/objects and their characteristics. Lab 2 builds on that to examine preservation at the directory/drive/media level, at the descriptive level, and how these work together to become SIPs, DIPs, AIPs, and how these activities tie into high-level preservation models like OAIS, TRAC, etc.
 
-## What we'll cover today
+### What we'll cover today
 
 * OAIS / TRAC overview/review
 * Acquisition & Forensics (Bitcurator)
@@ -33,13 +33,13 @@
 * Recap, relation of activities to larger archival principles, Q&A
 * Links to most stuff can be found at [http://bit.ly/lis2674_lab2]
 
-## OAIS / TRAC review
+### OAIS / TRAC review
 
 * The framework
 * What the parts mean and how it identifies (and jargonizes) components
 * Reviewing some TRAC areas, its link to OAIS, and some checklist stuff
 
-## Acquisition & Forensics (Bitcurator)
+### Acquisition & Forensics (Bitcurator)
 
 * What is Bitcurator (digital forensics origins & adoption by and value to archives)
 * Some caveats (write-blockers; obsolete media; file systems)
@@ -54,7 +54,7 @@
 * Mount disk image
 * Other Bitcurator tools (file similarity, metadata extractors, etc)
 
-## MODS / METS
+### MODS / METS
 
 * Overview of standards
 * MODS - for digital objects; sorta MARCish, sorta DCish
@@ -62,14 +62,14 @@
 * The essentials of each and some online examples
 * Quick exercise using MODS generator to create a test MODS record
 
-## Packaging content
+### Packaging content
 
 * The BagIt specification
 * The Bagger interface
 * Creating & verifying bags
 * Create a bag using our image and our MODS record
 
-## SIPs
+### SIPs
 
 * Prepare for submission and fear not 
 * Archivematica demo sandbox
@@ -77,26 +77,26 @@
 * Walkthrough and explication of Archivematica microprocesses
 * We have SIP!
 
-## AIPs & DIPs
+### AIPs & DIPs
 
 * What's the diff and what's the dealio?
 
-## PREMIS
+### PREMIS
 
 * Yes, more metadata - "my eyes! the goggles do nothing" for looking at XML
-* Use sample PREMIS xml document and online XML editor to create a basic PREMIS record
+* Use sample PREMIS XML document and online XML editor to create a basic PREMIS record
 * Discuss events and agents 
 
-## Back on TRAC
+### Back on TRAC
 
 * Talk through some of the checklist boxes in Section B "Digital Object Management"
 * Discuss how what we did in Lab 1 and Lab 2 do/don't (hypothetically) meets these criteria
 
-## Donors & Accessions
+### Donors & Accessions
 
-* We haven't discussed this much, so check out the book "Born Digital: Guidance for Donors, Dealers, and Archival Repositories" [pdf] http://www.clir.org/pubs/reports/pub159/pub159.pdf 
+* We haven't discussed this much, so check out the book "Born Digital: Guidance for Donors, Dealers, and Archival Repositories" [pdf] [http://www.clir.org/pubs/reports/pub159/pub159.pdf]
 
-## Recap, archival principles, Q&A
+### Recap, archival principles, Q&A
 
 * Linking it all together, from bit-flipping to conceptual models
 * Tools, argot are new but issues remain the same
