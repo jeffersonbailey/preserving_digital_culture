@@ -31,7 +31,7 @@
 * Looping back to TRAC and tie TRAC checklists to today's activities
 * Brief word on donors and accessions
 * Recap, relation of activities to larger archival principles, Q&A
-* Links to most stuff can be found at [http://bit.ly/lis2674_lab2]
+* Links to most stuff can be found at <a href="http://bit.ly/lis2674_lab2" target="_blank">http://bit.ly/lis2674_lab2</a>
 
 ### OAIS / TRAC review
 
