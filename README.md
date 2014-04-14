@@ -4,9 +4,7 @@ This repository contains a collection of resources related to the class *Preserv
 
 ## Contents
 
-Contained in this repository will be the class syllabus, some additional assignment guidelines that came out of student questions (post-syllabus), and resources and walkthroughs related to the two tool-oriented, hands-on "lab" classes.
-
-As of today (2014-04-08) only the syllabus is posted here. I will add the labs exercise once I refine them a bit. 
+Contained in this repository will be the class syllabus, some additional assignment guidelines that came out of student questions, and resources, guidance, links, and walkthroughs related to the two tool-oriented, hands-on "lab" sessions/classes. I will add the actual labs exercise as I refine them for the cyber-ether and not the classroom. 
 
 I will also include links to some of the collections and other materials created by students as part of their assignments. I will also add other stuff that is possibly, but not necessarily, related.
 
