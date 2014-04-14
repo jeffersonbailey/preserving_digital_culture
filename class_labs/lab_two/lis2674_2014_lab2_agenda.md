@@ -84,7 +84,7 @@
 ### PREMIS
 
 * Yes, more metadata - "my eyes! the goggles do nothing" for looking at XML
-* Use sample PREMIS XML document and online XML editor to create a basic PREMIS record
+* Use PREMIS XML template document and online XML editor to create a basic PREMIS record
 * Discuss events and agents 
 
 ### Back on TRAC
