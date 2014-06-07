@@ -1,0 +1,23 @@
+# Assignment 3 - Additional Guidance
+
+In monitoring everyone's work on the final assignment, I thought it would be helpful to provide some additional guidance. As always, feel free to contact me, Alison, or James with any questions.
+
+## Themes/Topics: 
+Given that your collections will consist of a small number of URLs/domains, your collection's theme/topic should very specific. Some of the themes/topics on the Realtime board are far too broad for the limited scope of this assignment. Think about a topic that you can adequately document with just a handful of URLs. For additional help on choosing a topic, it may be worth examining other instances of MLIS classes using Archive-It in the classroom. Collections created by UMSI students can be seen at https://www.archive-it.org/organizations/421 and collections created by UMD students can be seen at https://archive-it.org/organizations/663.  Both should give you a sense of how other students have framed their collections for a class assignment. The more defined and specific your theme/topic, as well as your seeds and scoping, the better your collection will be. Large corporate or media websites will likely be far too broad and large for this assignment. Also, remember that you do not need to (and probably shouldn't) use root domains (such as cnn.com or apple.com). You can select only specific directories or sub-URLs to better target your crawls. Given the limited time and scale of the assignment, you will not have time to scope entire URLs of massive corporations/organizations. Think creatively about how to build a collection that documents your theme/topic and having a specific theme/topic will help.
+
+## Collections Point 1: 
+Your SWG should be creating one collection. I see that some SWGs have created multiple collections already. You should not be creating multiple collections. Your group should have one collection. Seeds can be added, deleted, tested, scoped, et cetera, as you build your collection, but all of your SWG members should be working within that one collection. It is incumbent upon you to determine how this work and responsibility is distributed among your SWG.  Part of the assignment is working together to determine your collection theme/topic and building and managing your collection.
+
+## Collections Point 2: 
+You run test crawls as part of your permanent collection -- this helps you scope, refine, and build the collection. Collections cannot be deleted or merged once they are created -- they are permanent once you create them. Thus, once your SWG creates its one collection, that is where all your work will take place. 
+
+## Collections Point 3: 
+Remember, you are creating a permanent web archive that will be preserved by the Internet Archive and can (and should) be made publicly accessible. This is not only an assignment -- your web archive will be preserved beyond this class. Thus, your collection should have a meaningful title, sufficient metadata (both at the collection and seed level), and, upon conclusion of the assignment, be ready for public use. Collection titles can be edited, but many now say "test" or have your SWG name and aren't illustrative of their content. Make sure your collection is ready for hypothetical public use by the assignment due date.
+
+## Reports:
+Archive-It reports are generated within 24 hours of a crawl ending. Be sure you are using all the tools, reports, and metrics for working to scope and build your collection. What do your reports tell you? How have you refined your crawls after testing? How did you do quality assurance (QA)? Your experience using Archive-It is part of this assignment, so you are better served to make us of as many of its features and functionality as possible. Consult the help docs and tutorials as needed.
+
+## Assignment content: 
+Remember, every aspect of this assignment should be documented and described and analyzed in the final presentation and report. The assignment isn't just about creating a collection -- and really the theme/topic of the collection is one of the least meaningful parts of the assignment. The syllabus lists many of the things you should be thinking about and reporting on for the final report, but it isn't exhaustive. Decision-making, how your SWG worked as a team or divided responsibility, how the collection relates to your SWG topic, how you chose a theme/topic and evaluated and selected seeds, using the Archive-It tool (and all your decision and hurdles therein) -- all should be addressed in your final presentation.
+
+Let us know if you have any questions. Good luck and happy harvesting!
